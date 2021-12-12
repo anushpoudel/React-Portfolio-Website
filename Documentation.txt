@@ -1,0 +1,22 @@
+Folder Structure:
+
+    - assets => contains all the assests such as images, audio and svg files
+    - componenets => Files/Pages used to build this portfolio
+    - subComponents => Reusable componenets
+    - config => contains config files for particle js
+    - globalStyles.js => contains global styles for whole application
+
+Steps to run
+
+    - npm install
+    - npm start
+
+Resources Used In this website:
+
+Design in : https://www.figma.com/ 
+Svg Icons from :https://fontawesome.com/  
+Spaceman 3D Image from : https://www.figma.com/community/plugin/769588393361258724/Vectary-3D-Elements 
+Audio: You said it Song by Claire Margot
+Background Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="https://unsplash.com/s/photos/news-paper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+
