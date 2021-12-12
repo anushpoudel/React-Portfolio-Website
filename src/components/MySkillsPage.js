@@ -48,7 +48,7 @@ const Main = styled(motion.div)`
   background-color: ${(props) => props.theme.body};
   padding: 2rem;
   width: 30vw;
-  height: 70vh;
+  height: 72vh;
   z-index: 3;
   line-height: 1.5;
 
@@ -66,7 +66,7 @@ const Main = styled(motion.div)`
 
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  // justify-content: space-between;
 
   &:hover {
     transition: all 0.3s ease;
@@ -208,10 +208,6 @@ const MySkillsPage = () => {
                 <li>Responsive Lightning Web Components</li>
                 <li>Database modelling</li>
               </ul>
-            </Description>
-            <Description>
-              <strong>Tools</strong> <br />
-              <p>VScode, Git & GitHub, Bitbucket, Codepen, etc.</p>
             </Description>
           </Main>
           <BigTitle text="Skills" top="80%" right="30%" />
