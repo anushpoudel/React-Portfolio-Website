@@ -131,15 +131,11 @@ const AboutPage = () => {
             <Link
               style={{ color: "white" }}
               target="_blank"
-              to="/assets/resume/Anush_Poudel_Resume.pdf"
+              to="https://drive.google.com/u/1/uc?id=10x5G55fbp7i9KIFoqGkf-WmU-Z4gUFvA&export=download"
             >
               Download my resume
             </Link>
           </Main>
-
-          {/* <a href="/assets/resume/Anush_Poudel_Resume.pdf" download>
-              Download resume
-            </a> */}
 
           <BigTitle text="ABOUT" top="10%" left="5%" />
         </Box>
