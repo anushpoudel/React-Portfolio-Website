@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { lazy, Suspense } from "react";
-import { Link } from "react-router-dom";
 import styled, { keyframes, ThemeProvider } from "styled-components";
 
 import { DarkTheme, mediaQueries } from "./Themes";
@@ -128,13 +127,14 @@ const AboutPage = () => {
             <br />
             If you're interested to know more about me and my work, you can
             contact me using my social links.&nbsp;
-            <Link
+            <a
               style={{ color: "white" }}
               target="_blank"
-              to="https://drive.google.com/u/1/uc?id=10x5G55fbp7i9KIFoqGkf-WmU-Z4gUFvA&export=download"
+              rel="noreferrer"
+              href="https://drive.google.com/u/1/uc?id=10x5G55fbp7i9KIFoqGkf-WmU-Z4gUFvA&export=download"
             >
               Download my resume
-            </Link>
+            </a>
           </Main>
 
           <BigTitle text="ABOUT" top="10%" left="5%" />
