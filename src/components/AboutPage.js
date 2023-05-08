@@ -43,8 +43,8 @@ const Main = styled(motion.div)`
   border: 2px solid ${(props) => props.theme.text};
   color: ${(props) => props.theme.text};
   padding: 2rem;
-  width: 55vw;
-  height: 65vh;
+  width: 65vw;
+  overflow: auto;
   z-index: 3;
   line-height: 1.5;
   justify-content: center;
