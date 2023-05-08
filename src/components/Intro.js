@@ -209,7 +209,7 @@ const Intro = () => {
 
           <h3>I'm Anush Poudel.</h3>
 
-          <h6>Software developer & designer based in Ballarat, Victoria.</h6>
+          <h6>Application developer & designer based in Melbourne.</h6>
         </Text>
       </SubBox>
       <SubBox>

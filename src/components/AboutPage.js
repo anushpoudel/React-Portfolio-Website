@@ -110,8 +110,8 @@ const AboutPage = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}
           >
-            I'm a software developer and full-time student located in Ballarat,
-            Victoria. I'm a 3x certified Salesforce developer currently working
+            I'm an Application developer located in Melbourne,
+            Victoria. I'm 6x Salesforce certified currently working
             with IBM, building custom scalable CRM solutions for large vendors.
             I'm also very passionate about Web design and development and have
             strong critical thinking and programming skills.
@@ -120,9 +120,12 @@ const AboutPage = () => {
             Certifications:
             <br />
             <ul>
-              <li>Platform Developer 1</li>
-              <li>OmniStudio Consultant</li>
-              <li>OmniStudio Developer</li>
+              <li>Salesforce Certified Platform Developer 1</li>
+              <li>Salesforce Certified JavaScript Developer 1</li>
+              <li>Salesforce Certified OmniStudio Consultant</li>
+              <li>Salesforce Certified OmniStudio Developer</li>
+              <li>Salesforce Certified Administrator</li>
+              <li>Salesforce Certified Associate</li>
             </ul>
             <br />
             If you're interested to know more about me and my work, you can
